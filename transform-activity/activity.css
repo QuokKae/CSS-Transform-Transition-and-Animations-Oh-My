@@ -1,3 +1,6 @@
 main {
+    transform: rotate(-15deg);
+    transform: skew(-20deg);
+    border-radius: 40px;
 
 }
